@@ -9,14 +9,15 @@ I am interested in building practical technology that improves workflows, makes 
 - Interests: Software engineering, product development, automation, data analysis, and applied technology
 - Based in: Brooklyn, NY
 
-[LinkedIn](https://www.linkedin.com/in/aidancheiban/) • [Portfolio](https://github.com/aidancheiban?tab=repositories) • [Email](mailto:aidan@cheiban.com)
+[LinkedIn](https://www.linkedin.com/in/aidancheiban/) • [SSFRP Website](https://aidancheiban.github.io/ssfrp/) • [Email](mailto:aidan@cheiban.com)
 
 ---
 
 ## Featured Projects
 
 ### [Secondary School Field Research Program Website](https://github.com/aidancheiban/ssfrp)
-#### [View the live website](https://aidancheiban.github.io/ssfrp/)
+
+[View the live website](https://aidancheiban.github.io/ssfrp/)
 
 Collaborative public-facing website for Columbia University's Secondary School Field Research Program at Lamont-Doherty Earth Observatory.
 
@@ -53,7 +54,7 @@ A collection of C programming assignments focused on systems-level concepts, deb
 
 ---
 
-## Personal and Earlier Projects
+## Personal Projects
 
 ### [idkHowToCode](https://github.com/aidancheiban/idkHowToCode)
 
@@ -63,7 +64,7 @@ A browser-based website created to help people begin learning Java concepts.
 
 ### [More Minerals Minecraft Mod](https://github.com/aidancheiban/moreminerals-minecraftmod)
 
-A Java-based Minecraft mod created as part of an independent learning project. The project explored Java, Gradle, and game-mod development, including a metal-detector quality-of-life feature.
+A Java-based Minecraft mod created as part of an independent learning project. The project explores Java, Gradle, and game-mod development, including a metal-detector quality-of-life feature.
 
 **Tech:** Java, Gradle, Minecraft modding
 
@@ -83,9 +84,7 @@ Development blog and project documentation for the More Minerals Minecraft mod, 
 
 ---
 
-## What I'm Building
-
-I am continuing to build experience in:
+## What I'm Exploring
 
 - Workflow automation and API integrations
 - User-facing web applications and information design
