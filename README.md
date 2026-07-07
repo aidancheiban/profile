@@ -9,7 +9,7 @@ I am interested in building practical technology that improves workflows, makes 
 - Interests: Software engineering, product development, automation, data analysis, and applied technology
 - Based in: Brooklyn, NY
 
-[LinkedIn](https://www.linkedin.com/in/aidancheiban/) • [SSFRP Website](https://aidancheiban.github.io/ssfrp/) • [Email](mailto:aidan@cheiban.com)
+[LinkedIn](https://www.linkedin.com/in/aidancheiban/) • [Email](mailto:aidan@cheiban.com)
 
 ---
 
