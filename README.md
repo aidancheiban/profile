@@ -16,6 +16,7 @@ I am interested in building practical technology that improves workflows, makes 
 ## Featured Projects
 
 ### [Secondary School Field Research Program Website](https://github.com/aidancheiban/ssfrp)
+#### Website page: aidancheiban.github.io/ssfrp/
 
 Collaborative public-facing website for Columbia University's Secondary School Field Research Program at Lamont-Doherty Earth Observatory.
 
