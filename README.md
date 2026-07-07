@@ -9,14 +9,14 @@ I am interested in building practical technology that improves workflows, makes 
 - Interests: Software engineering, product development, automation, data analysis, and applied technology
 - Based in: Brooklyn, NY
 
-[LinkedIn](https://www.linkedin.com/in/aidancheiban/) • [Portfolio](https://aidancheiban.github.io/profile/) • [Email](mailto:aidan@cheiban.com)
+[LinkedIn](https://www.linkedin.com/in/aidancheiban/) • [Portfolio](https://github.com/aidancheiban?tab=repositories) • [Email](mailto:aidan@cheiban.com)
 
 ---
 
 ## Featured Projects
 
 ### [Secondary School Field Research Program Website](https://github.com/aidancheiban/ssfrp)
-#### Website page: aidancheiban.github.io/ssfrp/
+#### Website page: [aidancheiban.github.io/ssfrp/](url)
 
 Collaborative public-facing website for Columbia University's Secondary School Field Research Program at Lamont-Doherty Earth Observatory.
 
