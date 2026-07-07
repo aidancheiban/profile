@@ -15,7 +15,7 @@ I am interested in building practical technology that improves workflows, makes 
 
 ## Featured Projects
 
-### [Secondary School Field Research Program Website](https://github.com/aidancheiban/ssfrp)
+### [Columbia University - Secondary School Field Research Program Website](https://github.com/aidancheiban/ssfrp)
 
 [View the live website](https://aidancheiban.github.io/ssfrp/)
 
